@@ -191,10 +191,11 @@
       "description": "Enter your heroku API Key",
       "value": "",
       "required": true
-    }
+   }
 
-},
 
+    
+  },
   "buildpacks": [
     {
       "url": "heroku/nodejs"
@@ -206,6 +207,5 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     }
   ]
-}
-
+    }
 

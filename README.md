@@ -56,6 +56,18 @@ Incase of any issues, contact me  [here](https://wa.me/message/NHCZC5DSOEUXB1) v
 
 Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
 
+# Credits To:
+
+
+* [`Fortunatus mokaya`](https://github.com/Fortunatusmokaya) ***For Initial Script***
+
+* [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
+* [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***For Baileys Library***
+* [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***For Maintaining the bot libs***
+
+* 
+
+---
 
 ## License
 

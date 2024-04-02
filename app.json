@@ -193,7 +193,7 @@
       "required": true
     }
 
-}
+},
 
   "buildpacks": [
     {

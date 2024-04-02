@@ -27,7 +27,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 ## Get Session ID:
 
 
-- ***`Get your Session Id` by  [`PAIRING CODE`](https://session.giftedtechnexus.co.ke/pair) or by  [`SCANNING QR1`](https://session.giftedtechnexus.co.ke/qr) or by  [`SCANNING QR2`](https://session.giftedtechnexus.co.ke/qr2).***
+- ***`Get your Session Id` by  [`PAIRING CODE`](https://session.giftedtechnexus.co.ke/pair).***
 
 - Then `Go-to WhatsApp > Three dots > Linked Devices`
    - You will get a session ID in your WhatsApp. Copy it.

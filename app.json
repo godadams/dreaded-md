@@ -1,5 +1,5 @@
 {
-  "name": "DREADED MD",
+  "name": "Adams",
   "description": "A simple whatsapp bot built with nodejs and baileys with MD support. Created by Gifted Tech",
   "keywords": [
     "bot",
@@ -123,19 +123,19 @@
 
 "STICKER_AUTHOR": {
       "description": "Put your sticker author data",
-      "value": "Gifted Tech",
+      "value": "yobra",
       "required": true
     },
 
 "STICKER_PACKNAME": {
       "description": "Put your sticker packname data",
-      "value": "Dreaded Bot",
+      "value": "Adams",
       "required": false
     },
 
 "WA_PRESENCE": {
       "description": "This is your WhatsApp Presence Status: Here's how to set it up: Type *typing* if you want bot to show typing..., Type *recording* if you want bot to show recording..., Type *online* if you want bot to be always online, Leave this field blank if you want bot to show your actual presence.",
-      "value": "online",
+      "value": "typing",
       "required": true
     },
 
@@ -151,7 +151,7 @@
     },
 "AUTOBIO": {
       "description": "Type TRUE if you want bot to show autoupdate it's bio constantly",
-      "value": "FALSE",
+      "value": "TRUE",
       "required": true
     },
 "AUTODOWNLOAD_STATUS": {
@@ -161,20 +161,20 @@
     },
 "SESSION": {
       "description": "Paste the session id that you received in whatsapp after linking the bot. It's used for authentication.",
-      "value": "",
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOEpRb1luUnp5aWhSV09yelc3RFlxUFR2dGZ6WjFiQi9SblMwRURYMnBsUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZTAwVmZiRWUzcE5JVy9UQnZqaVpFTDlrYjk1OWRSOHhyUi82aGFGNlhtST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI0RlZwSlRscHIyelIxN3JQdEp0bjJRR2ltWFh3aXlEUncrMkZOKzNJUzBjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJyMDRzMllRcnlaK2JjaFFFcUQ5SHpoWlc2dkN6cjFFdWdkNk9FKzJxZlVZPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjRGbFFGZ1VtR09aOG1HRlp3anlJL3E3eUttZ0lydS9jS2F4MldFYjQ5MFk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ild1NVNnd01Mb0p4c3FUZVlMMlI1ZnJybkI1WlBPWHd4bTZWQ3kwT2ZaMVE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUVMcm1MYTk2YnNMN2ViS1RMcXFSeFlBbzhTbm5QU3gyQmkweExsYTdWRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSEZkaGcxTkNZelg2a2tkeTRhOUw0OTZZRnVBQjFzUnhlWkpqd0J3OEpYcz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikc3UE9NZzV1dm9IanpBcjJuTXhHeFFCVWZTYUpYbUhROXFZMTZkODArYXRURUZlOTNVRE9qUnFkUWpkNkZ4QjZPYXZEWnlONHFNbytkQS9YMlVPdEFBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjI3LCJhZHZTZWNyZXRLZXkiOiJRQkxWeng3MGhaWTlXMzZqSXJ3SGtwRm1YZU9MRStnN2RkVWUzVFlFN0tBPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJVMXRvZU00S1RHS0E2ZF9kUzRxRUJRIiwicGhvbmVJZCI6ImY1MjkxYWU4LWQyMTktNDhiMy1iODE5LTY1NjBhNTIxNzU3NCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlaXBPcEV2a3duMTRqSUh4djltV0dsSGNqZjQ9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWlk0dGFjZEZtZXhvR0JWTUJReU4wbUs4OTdBPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkU3QzFGREtIIiwibWUiOnsiaWQiOiIyNTQ3NzY1NDEwNzE6NEBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDUFNENGVrSEVLTDl0TEFHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiUUxxeC9nSjJnMkhiN1lzQlliczFaMzhFbFIzbUNMOHF2b21WYUVCT1dsMD0iLCJhY2NvdW50U2lnbmF0dXJlIjoiL3M4bDdVNS9wT2Qwc1BMMldVenVTWWtWam4rbHVZNk1LRUpJeWh5WlJybWhZN3g5blVyNTB5NkcxV0VIenNmd2R5YmFvdDRwb0o3UWF0bjlvQXJFQ3c9PSIsImRldmljZVNpZ25hdHVyZSI6Ink2YkQ2aWJpZkxidGRGV1A2Y0JKS1loTVh5MkN4Kzh5V1FQa0FMbkk5Q3lENUxJbWRGRHRPa0JZc2ptUitIOHo5MG9mVkZ1UFEvYXlKRUFkbGRSVkFnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0Nzc2NTQxMDcxOjRAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVUM2c2Y0Q2RvTmgyKzJMQVdHN05XZC9CSlVkNWdpL0tyNkpsV2hBVGxwZCJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcxMjE0NDA0OH0=",
       "required": true
     },
 
 "COUNTRY_CODE": {
       "description": "Enter your country code without +. Example: 254 for Kenya. This will allow bot to detect and remove foreigners if commanded",
-      "value": "",
+      "value": "254",
       "required": true
     },
 
 
 "BOTNAME": {
       "description": "Enter name for your bot.",
-      "value": "𝗗𝗥𝗘𝗔𝗗𝗘𝗗 𝗠𝗗",
+      "value": "Adams",
       "required": false
     },
 
